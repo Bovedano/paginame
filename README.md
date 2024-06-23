@@ -1,0 +1,2 @@
+# paginame
+Pagination component 
